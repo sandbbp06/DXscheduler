@@ -1,0 +1,2 @@
+C:\Users\Developer\AppData\Local\Temporary Projects\DXscheduler\bin\Debug\DXscheduler.exe.config
+C:\Users\Developer\Documents\Visual Studio 2013\Projects\DXscheduler\DXscheduler\bin\Debug\DXscheduler.exe.config
